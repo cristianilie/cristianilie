@@ -1,7 +1,7 @@
 ### Hello world! 👋
 
 
-I have (entry level) knowledge of C#, (MS)SQL, HTML, CSS and I am interested in jobs as a C# .NET developer in Bucharest, Romania.
+I have knowledge of C#, (MS)SQL, HTML, CSS and I am interested in jobs as a C# .NET developer in Bucharest, Romania.
 
 - 🔭 I’m currently working on a product rental application(CriliesRentalPlace).
 - 🌱 I’m currently learning more C# & JavaScript.
